@@ -1,6 +1,6 @@
 # admin_eINSTRUKCIJE
 
-Web dio aplikacije eInstrukcije koje služi za administratore aplikacije.
+Web dio aplikacije eInstrukcije koje služi za administratore aplikacije(odobravanje postova, administracija korisnika.)
 
 ## FIGMA prikaz!
 
